@@ -1,0 +1,2 @@
+# TSEGI-SVA-CREATIVECODING-2026
+Spring 2026 - SVA Creative Coding
